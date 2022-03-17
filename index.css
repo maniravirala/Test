@@ -1,0 +1,27 @@
+body
+{
+    background-color:white;
+}
+img
+{
+    margin: auto;
+    height: 500px;
+    clip-path: circle(30% at 50% 50%);
+    padding-top:10px;
+}
+form
+{
+    margin: auto;
+    width: 300px;
+    background-color:#E9C766;
+    padding: 10px;
+}
+.details
+{
+    display: flex;
+    justify-content:center;
+}
+.terms
+{
+    padding-left: 50px;
+}
